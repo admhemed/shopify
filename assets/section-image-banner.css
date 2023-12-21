@@ -176,6 +176,11 @@
   margin: 0 auto;
   right: 0;
 }
+.banner__logo {
+  position: absolute;
+  top: 4rem;
+  left: 4rem;
+}
 
 .banner__media-half {
   width: 50%;
